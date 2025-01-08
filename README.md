@@ -44,8 +44,8 @@ This project is a simple memory card game which consist of 8 cards, where player
 
 ## Getting Started
 
-Click the [link](http://127.0.0.1:5500/index.html) to play the game!
-Planning materials [Link](https://github.com/ehrosales5/my-project.git)
+- Click the [link](http://127.0.0.1:5500/index.html) to play the game!
+- Planning materials [Link](https://github.com/ehrosales5/my-project.git)
 
 ## ⏩ Next Steps
 
