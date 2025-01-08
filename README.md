@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://imgur.com/gallery/mr-robot-neon-sign-YYNOBHQ" width="800" height="400">
+  <img src="https://i.imgur.com/YYNOBHQ.jpeg" width="800" height="400">
 
 </div>
 
