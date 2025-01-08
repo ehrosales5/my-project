@@ -23,8 +23,9 @@ This project is a simple memory card game which consist of 8 cards, where player
 
 ## ✨ Features
 
-- Flip cards to reveal its value.
-- Limited chances of winning.
+- Flip cards to reveal its value
+- Family fun time
+- Makes you taller
 - Easy to play
 - Ages: 5 - 99+
 
@@ -39,7 +40,7 @@ This project is a simple memory card game which consist of 8 cards, where player
 - Once you flipped a card you get one opportunity to find its pair.
 - If not, they will flip back over.
 - Remember you only have 3 oportunities.
-- The game ends once you find all the pairs or you when you dont have more 
+- The game ends once you find all the pairs or when you dont have more opportunities.
 
 ## Getting Started
 
