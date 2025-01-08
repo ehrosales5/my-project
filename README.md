@@ -33,6 +33,14 @@ This project is a simple memory card game which consist of 8 cards, where player
 
 <br>
 
+## How to Play
+
+- Start the game by clicking any of the cards.
+- Once you flipped a card you get one opportunity to find its pair.
+- If not, they will flip back over.
+- Remember you only have 3 oportunities.
+- The game ends once you find all the pairs or you when you dont have more 
+
 ## Getting Started
 
 Click the [link](http://127.0.0.1:5500/index.html) to play the game!
