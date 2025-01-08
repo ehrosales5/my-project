@@ -1,3 +1,9 @@
+<div id="header" align="center">
+
+  <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400">
+
+</div>
+
 # 🃏 Memory Card Game
 
 A fun and interactive memory card game built with JavaScript, HTML, and CSS. Match all the pairs in the shortest time possible!
