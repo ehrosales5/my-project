@@ -5,9 +5,11 @@ A fun and interactive memory card game built with JavaScript, HTML, and CSS. Mat
 ## Table of Contents
 
 - [About the Project](#about-the-ptoject)
-- Features](#features)
+- [Features](#features)
 - [Technologies used](#Technologies-used)
-- How to Play](#How-to-play)
+- [How to Play](#How-to-play)
+- [Getting Started](#Getting-started)
+- [Next Steps](#Next-steps)
 
 ## About the Project
 
@@ -25,6 +27,12 @@ This project is a simple memory card game which consist of 8 cards, where player
 
 <br>
 
-## 📃 License
+## Getting Started
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
+Click the [link](http://127.0.0.1:5500/index.html) to play the game!
+
+## ⏩ Next Steps
+
+- [ ] Improve CSS design.
+- [ ] Add more cards.
+- [ ] Add a timer.
