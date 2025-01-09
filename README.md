@@ -23,7 +23,7 @@ This project is a simple memory card game which consist of 8 cards, where player
 
 ## ✨ Features
 
-- Flip cards to reveal its value
+- Improve your concentration skills
 - Family fun time
 - Makes you taller
 - Easy to play
@@ -52,23 +52,3 @@ This project is a simple memory card game which consist of 8 cards, where player
 - [ ] Improve CSS design.
 - [ ] Add more cards.
 - [ ] Add a timer.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💬 Module 1 Discussion Question
