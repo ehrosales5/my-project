@@ -52,3 +52,23 @@ This project is a simple memory card game which consist of 8 cards, where player
 - [ ] Improve CSS design.
 - [ ] Add more cards.
 - [ ] Add a timer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 💬 Module 1 Discussion Question
