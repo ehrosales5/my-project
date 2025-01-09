@@ -38,9 +38,9 @@ This project is a simple memory card game which consist of 8 cards, where player
 
 - Start the game by clicking any of the cards.
 - Once you flipped a card you get one opportunity to find its pair.
-- If not, they will flip back over.
+- If not, the cards will flip back over.
 - Remember you only have 3 oportunities.
-- The game ends once you find all the pairs or when you dont have more opportunities.
+- The game ends once you find all the pairs or when you dont have any more opportunities.
 
 ## Getting Started
 
