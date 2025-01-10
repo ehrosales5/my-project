@@ -33,7 +33,8 @@ matchedPairs = 0;
 wrongAttempts = 0;
 shuffleCards();
 
-
+// Creating a container element for each card
+// assign class and stores its value
 cardsArray.forEach((cardValue) => {
   const card = document.createElement('div');
   card.classList.add('card');
@@ -52,9 +53,10 @@ cardsArray.forEach((cardValue) => {
 
 function flipCard() {
 
-    //
+    // Preventing flipping the card if already flipped or 2 cards flipped.
   if (this.classList.contains('flipped') || flippedCards.length >= 2) return;
 
+  // Adds flipped class value and stores it in flippedCards
   this.classList.add('flipped');
 // 'this' is a clikced card
   // temporary card value
@@ -72,6 +74,7 @@ function flipCard() {
   }
 }
 
+// retrieving 2 cards
 function checkMatch() {
   const [card1, card2] = flippedCards;
 
@@ -80,6 +83,11 @@ function checkMatch() {
     card1.removeEventListener('click', flipCard);
     card2.removeEventListener('click', flipCard);
     matchedPairs++;
+// removing 'click' for further flipping
+// Increase the matchedPairs
+
+
+// Setting my win/lose conditions
     if (matchedPairs === totalPairs) {
         document.getElementById('message').textContent = 'Winner!';
     }
